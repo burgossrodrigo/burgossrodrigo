@@ -59,6 +59,45 @@ dex-prototype&hide_border=true&theme=dark">
 	</a>
 </p>
 
+## EVM
+
+<p align="center">
+	<a href="https://github.com/burgossrodrigo/rurgos-contracts">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=rurgos-contracts&hide_border=true&theme=dark">
+	</a>
+</p>
+
+## SOLANA
+
+<p align="center">
+	<a href="https://github.com/burgossrodrigo/candy-machine-mint.git">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=candy-machine-mint&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://solshades-mint.vercel.app/">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=solshades-mint&hide_border=true&theme=dark">
+	</a>
+</p>
+<p align="center">
+	<a href="https://github.com/burgossrodrigo/metaplex.git">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=metaplex&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/burgossrodrigo/oyster.GIT">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=oyster&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="solana-program-caller.vercel.app">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=solana-program-caller&hide_border=true&theme=dark">
+	</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rurgos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rurgos" height="30" width="40" /></a>
