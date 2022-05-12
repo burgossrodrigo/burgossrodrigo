@@ -7,6 +7,62 @@
 
 <p align="left"> <a href="https://twitter.com/rurgos" target="blank"><img src="https://img.shields.io/twitter/follow/rurgos?logo=twitter&style=for-the-badge" alt="rurgos" /></a> </p>
 
+# Projects
+
+## Full-stack
+<p align="center">
+	<a href="https://github.com/burgossrodrigo/swth-nft-gallery">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=seth-nft-gallery_App&hide_border=true&theme=dark">
+	</a>
+</p>
+<p align="center">
+	<a href="https://github.com/burgossrodrigo/staking-platform">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=staking-platform_App&hide_border=true&theme=dark">
+	</a>
+</p>
+<p align="center">
+	<a href="https://github.com/formidablae/burgossrodrigo">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=dex-prototype_App&hide_border=true&theme=dark">
+	</a>
+</p>
+<p align="center">
+	<a href="hokkfi-dex.vercel.app">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=chart-hokkfi-bsc&hide_border=true&theme=dark">
+	</a>
+</p>
+<p align="center">
+	<a href="chart-hokkfi-bsc.vercel.app">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=hokkfi-dex_App&hide_border=true&theme=dark">
+	</a>
+</p>
+
+## Front-end
+<p align="center">
+	<a href="ftm-birds-frontend.vercel.app">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=ftm-birds-frontend_App&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/burgossrodrigo/web3-lab/tree/main/frontend">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=web3-lab_App&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="staking-platform.vercel.app">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=staking-platform&hide_border=true&theme=dark">
+	</a>
+</p>
+
+## Back-end
+
+<p align="center">
+	<a href="https://hokkfi-ohlc-api.herokuapp.com">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=ohlc-bitquery-api&hide_border=true&theme=dark">
+	</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rurgos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rurgos" height="30" width="40" /></a>
