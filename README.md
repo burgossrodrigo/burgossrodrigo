@@ -12,45 +12,41 @@
 ## Full-stack
 <p align="center">
 	<a href="https://github.com/burgossrodrigo/seth-nft-gallery">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=seth-nft-gallery_App&hide_border=true&theme=dark">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=seth-nft-gallery&hide_border=true&theme=dark">
 	</a>
 </p>
 <p align="center">
 	<a href="https://github.com/burgossrodrigo/staking-platform">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=staking-platform_App&hide_border=true&theme=dark">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=staking-platform&hide_border=true&theme=dark">
 	</a>
 </p>
 <p align="center">
-	<a href="https://github.com/burgossrodrigo/burgossrodrigo">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=dex-prototype_App&hide_border=true&theme=dark">
+	<a href="https://github.com/burgossrodrigo/dex-prototype">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=
+dex-prototype&hide_border=true&theme=dark">
 	</a>
 </p>
 <p align="center">
-	<a href="hokkfi-dex.vercel.app">
+	<a href="https://chart-hokkfi-bsc.vercel.app">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=chart-hokkfi-bsc&hide_border=true&theme=dark">
-	</a>
-</p>
-<p align="center">
-	<a href="chart-hokkfi-bsc.vercel.app">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=hokkfi-dex_App&hide_border=true&theme=dark">
 	</a>
 </p>
 
 ## Front-end
 <p align="center">
 	<a href="ftm-birds-frontend.vercel.app">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=ftm-birds-frontend_App&hide_border=true&theme=dark">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=ftm-birds-frontend&hide_border=true&theme=dark">
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/burgossrodrigo/web3-lab/tree/main/frontend">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=web3-lab_App&hide_border=true&theme=dark">
+	<a href="https://github.com/burgossrodrigo/web3-lab/">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=web3-lab&hide_border=true&theme=dark">
 	</a>
 </p>
 
 <p align="center">
-	<a href="staking-platform.vercel.app">
+	<a href="https://staking-platform.vercel.app">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=staking-platform&hide_border=true&theme=dark">
 	</a>
 </p>
