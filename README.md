@@ -11,7 +11,7 @@
 
 ## Full-stack
 <p align="center">
-	<a href="https://github.com/burgossrodrigo/swth-nft-gallery">
+	<a href="https://github.com/burgossrodrigo/seth-nft-gallery">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=seth-nft-gallery_App&hide_border=true&theme=dark">
 	</a>
 </p>
@@ -21,7 +21,7 @@
 	</a>
 </p>
 <p align="center">
-	<a href="https://github.com/formidablae/burgossrodrigo">
+	<a href="https://github.com/burgossrodrigo/burgossrodrigo">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=burgossrodrigo&repo=dex-prototype_App&hide_border=true&theme=dark">
 	</a>
 </p>
